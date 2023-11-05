@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.space_booker.Launcher
+Class-Path: javafx-base-18-ea+6-win.jar javafx-controls-18-ea+6-win.jar 
+ javafx-graphics-18-ea+6-win.jar javafx-graphics-18-ea+6.jar javafx-fxml
+ -18-ea+6-win.jar javafx-controls-18-ea+6.jar javafx-fxml-18-ea+6.jar ja
+ vafx-base-18-ea+6.jar javafx-swt.jar javafx.web.jar javafx.base.jar jav
+ afx.fxml.jar javafx.media.jar javafx.swing.jar javafx.controls.jar java
+ fx.graphics.jar
+
